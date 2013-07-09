@@ -13,7 +13,7 @@ distutils.core.setup(
     name='keenut',
     version='0.1.0',
     packages=[''],
-    url='http://github.com/onbeep/keenut',
+    url='http://github.com/ampledata/keenut',
     license='Apache License 2.0',
     author='Greg Albrecht',
     author_email='gba@onbeep.com',
